@@ -1,0 +1,2 @@
+# Current configurations for
+- Neovim
